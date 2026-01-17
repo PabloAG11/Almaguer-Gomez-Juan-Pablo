@@ -1,3 +1,5 @@
+#Almaguer-Gomez-Juan-Pablo
+#Villalpando-Casillas-Luz-Andrea
 import socket
 
 # Configuración del cliente
@@ -16,3 +18,4 @@ while True:
     print("Servidor:", data.decode("utf-8"))
 
 client_socket.close()
+
