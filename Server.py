@@ -1,3 +1,5 @@
+#Almaguer-Gomez-Juan-Pablo
+#Villalpando-Casillas-Luz-Andrea
 import socket
 
 # Configuración del servidor
@@ -23,3 +25,4 @@ while True:
 
 conn.close()
 server_socket.close()
+
